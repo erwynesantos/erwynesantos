@@ -8,7 +8,7 @@ Currently learning Jenkins, Python, container platforms (RedHat Openshift/Kubern
 
 ## Hobbies and Interests :metal:
 I also play the guitar and listen to a wide range of genres. I mainly play and listen to rock, blues and math-rock (bands like Polyphia) \
-Only recently I've been hooked to Spanish music as weel!
+Only recently I've been very into Spanish music as weel!
 
 Improving on the skills that I already posses and learning new things keep my brain stimulated which makes life, in my perspective, more exciting everyday.
 
