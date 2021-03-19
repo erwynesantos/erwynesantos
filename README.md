@@ -6,8 +6,8 @@ I’m interested in music, mathematics, linux systems, container platforms and t
 ## What I'm Focusing On
 Currently learning Jenkins, Python, container platforms (RedHat Openshift/Kubernetes) and deployment, configuration, management and monitoring tools such as Ansible, Puppet and Centreon. I am also learning español, and the Spanish culture during my free time. 
 
-## Hobbies and Interests
-I also play the guitar and listen to a wide range of genres. I mainly play and listen to rock, blues and math-rock (bands like Polyphia) :metal: \
+## Hobbies and Interests :metal:
+I also play the guitar and listen to a wide range of genres. I mainly play and listen to rock, blues and math-rock (bands like Polyphia) \
 Only recently I've been hooked to Spanish music as weel!
 
 Improving on the skills that I already posses and learning new things keep my brain stimulated which makes life, in my perspective, more exciting everyday.
