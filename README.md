@@ -4,7 +4,7 @@ I am a System Administrator in a team of DevOps. My main tasks consist of deploy
 I’m interested in music, mathematics, linux systems, container platforms and the whole idea of technological evolution in general.
 
 ## What I'm Focusing On
-Currently learning Jenkins, Python, container platforms (RedHat Openshift/Kubernetes) and deployment, configuration, management and monitoring tools such as Ansible, Puppet and Centreon. I am also learning español, and the Spanish culture during my free time. 
+Currently learning Jenkins, Python, container platforms (RedHat Openshift/Kubernetes) and deployment, configuration, management and monitoring tools such as Ansible, Puppet and Centreon. I am also learning español and 日本語 alongside their vast culture during my free time. 
 
 ## Hobbies and Interests :metal:
 I also play the guitar and listen to a wide range of genres. I mainly play and listen to rock, blues and math-rock (bands like Polyphia). \
