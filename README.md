@@ -2,7 +2,7 @@
 
 I am a DevOps Engineer and most of my main tasks consist of deployment, patching, OS hardening, configuration, troubleshooting, and maintenance of hundreds of servers through Ansible and Jenkins CI in the cloud.  
 
-This is only a personal GitHub account for review and educational purposes. I hope I'll be able to help you with some of your projects both personal and at work in any of my repositories created.
+This is only a personal GitHub account for review and educational purposes. I hope I'll be able to help anyone with their projects both personally and at work in any of my repositories created.
 
 > "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family." - Kofi Annan
 
